@@ -16,11 +16,8 @@ Using Wireshark, multiple traffic samples were analyzed to explore how data flow
 
 ## 📁 Project Structure
 
-Each folder represents a standalone analysis project and follows this structure:
+Each folder represents a standalone analysis project and contains this file:
 
-- `traffic.pcap` – Sample network capture (anonymized)
-- `analysis/` – Notes and observations from the investigation
-- `screenshots/` – Key packet captures highlighting notable traffic
 - `report.pdf` – Summary report of findings and conclusions
 
 ## 🚀 Purpose
