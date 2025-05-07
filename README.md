@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://github.com/Imad-SH/Wireshark-Anomaly-Analysis/blob/main/assets/wireshark1.png?raw=true" width="300"/>
 </p>
-This repository contains a collection of mini-projects focused on analyzing network traffic to identify unusual patterns and behaviors. Each project demonstrates packet inspection skills and familiarity with core networking protocols.
+⚪This repository contains a collection of mini-projects focused on analyzing network traffic to identify unusual patterns and behaviors. Each project demonstrates packet inspection skills and familiarity with core networking protocols.
 
 ## 📄 Overview
 
-⚪ Using Wireshark, multiple traffic samples were analyzed to explore how data flows across networks and to detect anomalies such as irregular HTTP activity, file uploads, scanning behavior, or suspicious communication patterns.
+Using Wireshark, multiple traffic samples were analyzed to explore how data flows across networks and to detect anomalies such as irregular HTTP activity, file uploads, scanning behavior, or suspicious communication patterns.
 
 ## 🧰 Tools Used
 
