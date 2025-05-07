@@ -5,7 +5,7 @@ This repository contains a collection of mini-projects focused on analyzing netw
 
 ## 📄 Overview
 
-Using Wireshark, multiple traffic samples were analyzed to explore how data flows across networks and to detect anomalies such as irregular HTTP activity, file uploads, scanning behavior, or suspicious communication patterns.
+⚪ Using Wireshark, multiple traffic samples were analyzed to explore how data flows across networks and to detect anomalies such as irregular HTTP activity, file uploads, scanning behavior, or suspicious communication patterns.
 
 ## 🧰 Tools Used
 
