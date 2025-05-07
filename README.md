@@ -1,26 +1,31 @@
-# Wireshark Anomaly Detection - Traffic Analysis Project
+# 🔍 Network Traffic Analysis with Wireshark
 
-This project involves analyzing network traffic to detect and investigate anomalies such as suspicious file uploads, C2 communication, or malware behavior using Wireshark.
+This repository contains a collection of mini-projects focused on analyzing network traffic to identify unusual patterns and behaviors. Each project demonstrates packet inspection skills and familiarity with core networking protocols.
 
-## 🔍 Goal
-Detect anomalies in the provided PCAP, understand their nature, and document findings for educational and forensic purposes.
+## 📄 Overview
 
-## 📁 Files
-- `traffic.pcapng`: Captured traffic
-- `analysis/`: Findings and screenshots
-- `filters/`: Wireshark filters used
-- `notes/`: Step-by-step log of the investigation
+Using Wireshark, multiple traffic samples were analyzed to explore how data flows across networks and to detect anomalies such as irregular HTTP activity, file uploads, scanning behavior, or suspicious communication patterns.
 
-## 🛠️ Tools Used
+## 🧰 Tools Used
+
 - Wireshark
-- Zeek (optional)
-- Tshark (CLI)
+- TCP stream analysis
+- Display filters
+- Network protocol decoding
 
-## 🧠 Summary
-Anomalies detected include:
-- Suspicious POST request to `upload.php`
-- File upload of `image.php.jpg` with reverse shell
-- Beaconing behavior to external IP `117.11.88.124`
+## 📁 Project Structure
 
-## 📸 Screenshots
-See `analysis/screenshots/` folder.
+Each folder represents a standalone analysis project and follows this structure:
+
+- `traffic.pcap` – Sample network capture (anonymized)
+- `analysis/` – Notes and observations from the investigation
+- `screenshots/` – Key packet captures highlighting notable traffic
+- `report.pdf` – Summary report of findings and conclusions
+
+## 🚀 Purpose
+
+These projects are part of a self-guided learning path in network analysis and blue-team cybersecurity practices. They are intended to reinforce practical skills in traffic inspection, threat detection, and documentation.
+
+## 📬 Contact
+
+Feel free to reach out or open an issue if you have feedback or questions.
