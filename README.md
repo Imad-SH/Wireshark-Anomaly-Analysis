@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Wireshark Project" width="600"/>
+</p>
 # 🔍 Network Traffic Analysis with Wireshark
 
 This repository contains a collection of mini-projects focused on analyzing network traffic to identify unusual patterns and behaviors. Each project demonstrates packet inspection skills and familiarity with core networking protocols.
