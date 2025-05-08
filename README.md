@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Imad-SH/Wireshark-Anomaly-Analysis/blob/main/assets/wireshark1.png?raw=true" width="300"/>
+  <img src="https://github.com/Imad-SH/Wireshark-Anomaly-Analysis/blob/main/assets/logo.png?raw=true" width="300"/>
 </p>
 ⚪ This repository contains a collection of mini-projects focused on analyzing network traffic to identify unusual patterns and behaviors. Each project demonstrates packet inspection skills and familiarity with core networking protocols.
 
