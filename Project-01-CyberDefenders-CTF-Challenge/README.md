@@ -19,8 +19,6 @@ My task: Analyze the provided PCAP file to determine **how the file appeared on 
 
 ## 📁 Project Files
 
-- `traffic.pcap` – Captured network traffic for analysis
-- `analysis.md` – Notes from the investigation process
 - `report.pdf` – Structured summary of findings and conclusions
 
 ---
